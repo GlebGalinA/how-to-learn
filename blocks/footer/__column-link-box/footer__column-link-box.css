@@ -1,0 +1,16 @@
+.footer__column-link-box {
+  line-height: 18px;
+  font-size: 18px;
+  font-weight: 400;
+  margin: 0;
+  margin-top: 10px;
+  transition: opacity .3s linear;
+}
+
+.footer__column-link:first-of-type {
+  margin-top: 0;
+}
+
+.footer__column-link:hover {
+  opacity: 0.5;
+}
